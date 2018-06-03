@@ -17,6 +17,7 @@
   ],
   "license": "MIT",
   "devDependencies": {
+    "browserify": "^16.2.2",
     "istanbul": "^0.4.5",
     "tape": "^4.9.0"
   }
